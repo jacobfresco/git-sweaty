@@ -1,9 +1,9 @@
 {
-  "after": 1741242877,
+  "after": 1741328774,
   "completed": true,
-  "last_run_utc": "2026-03-06T06:35:44.177702+00:00",
+  "last_run_utc": "2026-03-07T06:27:21.785104+00:00",
   "newest_seen_ts": 1772726900,
   "next_before": null,
-  "oldest_seen_ts": 1741283711,
+  "oldest_seen_ts": 1741420871,
   "rate_limited": false
 }
